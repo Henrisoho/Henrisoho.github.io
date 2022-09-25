@@ -52,11 +52,11 @@ h4 {
     font-style: italic;
 }
 
-#Kitten {
+#Cage {
 	outline: 8px solid #dea5a4;
 	margin-top: 5px;
 }
 
-#Kitten:hover {
+#Cage:hover {
 	outline: 20px groove #dea5a4;
 }
